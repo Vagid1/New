@@ -1,0 +1,14 @@
+C:\Users\111\OneDrive\Рабочий стол\ITT\bin\Debug\net7.0\ITT.exe
+C:\Users\111\OneDrive\Рабочий стол\ITT\bin\Debug\net7.0\ITT.deps.json
+C:\Users\111\OneDrive\Рабочий стол\ITT\bin\Debug\net7.0\ITT.runtimeconfig.json
+C:\Users\111\OneDrive\Рабочий стол\ITT\bin\Debug\net7.0\ITT.dll
+C:\Users\111\OneDrive\Рабочий стол\ITT\bin\Debug\net7.0\ITT.pdb
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.AssemblyInfoInputs.cache
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.AssemblyInfo.cs
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.csproj.CoreCompileInputs.cache
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.dll
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\refint\ITT.dll
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.pdb
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ITT.genruntimeconfig.cache
+C:\Users\111\OneDrive\Рабочий стол\ITT\obj\Debug\net7.0\ref\ITT.dll
